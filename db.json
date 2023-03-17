@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "fixed 0222",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-08-03T04:00:42.635Z"
+    },
+    {
+      "id": 2,
+      "message": "Changed network card 3",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-08-03T04:00:59.633Z"
+    },
+    {
+      "message": "Firewall crashed",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-08-03T02:54:29.930Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Chavirio",
+      "lastName": "Van Kallen",
+      "id": 4
+    }
+  ]
+}
